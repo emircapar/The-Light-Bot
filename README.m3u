@@ -1,593 +1,407 @@
-# EXTM3U
-#EXTINF: -1, [TR] STAR TV SD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8760.ts
-#EXTINF: -1, [TR] STAR TV HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/154.ts
-#EXTINF: -1, [TR] STAR TV HD [Y]
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/153.ts
-#EXTINF: -1, [TR] SHOW TV SD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8761.ts
-#EXTINF: -1, [TR] SHOW TV HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/155.ts
-#EXTINF: -1, [TR] TV HD gösterisi [Y]
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/156.ts
-#EXTINF: -1, [TR] KANAL D SD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8762.ts
-#EXTINF: -1, [TR] KANAL D HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/157.ts
-#EXTINF: -1, [TR] KANAL D HD [Y]
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/158.ts
-#EXTINF: -1, [TR] ATV SD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8764.ts
-#EXTINF: -1, [TR] ATV HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/159.ts
-#EXTINF: -1, [TR] ATV HD [Y]
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/160.ts
-#EXTINF: -1, [TR] FOX TV SD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8763.ts
-#EXTINF: -1, [TR] FOX TV HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/161.ts
-#EXTINF: -1, [TR] FOX TV HD [Y]
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/162.ts
-#EXTINF: -1, [TR] KANAL 7 SD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8765.ts
-#EXTINF: -1, [TR] KANAL 7 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/165.ts
-#EXTINF: -1, [TR] KANAL 7 HD [Y]
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/166.ts
-#EXTINF: -1, [TR] TV8 SD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8759.ts
-#EXTINF: -1, [TR] TV8 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/163.ts
-#EXTINF: -1, [TR] TV8 HD [Y]
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/164.ts
-#EXTINF: -1, [TR] TV8.5 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/536.ts
-#EXTINF: -1, [TR] TV8 INT
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/4964.ts
-#EXTINF: -1, [TR] BEYAZ TV HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/169.ts
-#EXTINF: -1, [TR] BEYAZ TV HD [Y]
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/170.ts
-#EXTINF: -1, [TR] TEVE 2 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/167.ts
-#EXTINF: -1, [TR] TEVE 2 HD [Y]
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2357.ts
-#EXTINF: -1, [TR] SHOWMAX HD [L]
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2360.ts
-#EXTINF: -1, [TR] TRT 4K
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8216.ts
-#EXTINF: -1, [TR] TRT 1 [Y]
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/143.ts
-#EXTINF: -1, [TR] TRT 1 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/142.ts
-#EXTINF: -1, [TR] TRT AVAZ [L]
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2330.ts
-#EXTINF: -1, [TR] TRT TÜRK [Y]
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5023.ts
-#EXTINF: -1, [TR] TRT HABER HD [Y]
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/146.ts
-#EXTINF: -1, [TR] TRT BELGESEL HD [Y]
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/151.ts
-#EXTINF: -1, [TR] A2 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/728.ts
-#EXTINF: -1, [TR] SONY KANAL
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5448.ts
-#EXTINF: -1, [TR] TLC
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2361.ts
-#EXTINF: -1, [TR] FIL TV
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2362.ts
-#EXTINF: -1, [TR] FLASH TV
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/180.ts
-#EXTINF: -1, [TR] PLANET TÜRK
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2497.ts
-#EXTINF: -1, [TR] 360 TV
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2355.ts
-#EXTINF: -1, [TR] BEIN FİLM EYLEM FHD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8697.ts
-#EXTINF: -1, [TR] BEIN FİLMLERİ EYLEM 2 FHD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/9423.ts
-#EXTINF: -1, [TR] BEIN FİLMLERİ PREMİER FHD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2478.ts
-#EXTINF: -1, [TR] BEIN FİLMLERİ TÜRK FHD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2480.ts
-#EXTINF: -1, [TR] BEIN FİLMLERİ KOMEDİ FHD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8698.ts
-#EXTINF: -1, [TR] BEIN FİLMLERİ FESTİVALİ FHD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/9290.ts
-#EXTINF: -1, [TR] BEIN FİLMLERİ AİLE FHD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8096.ts
-#EXTINF: -1, [TR] SALONDA NE VAR
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8796.ts
-#EXTINF: -1, [TR] SALON 1 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/219.ts
-#EXTINF: -1, [TR] SALON 2 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/220.ts
-#EXTINF: -1, [TR] SALON 3 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/221.ts
-#EXTINF: -1, [TR] SALON 4 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8779.ts
-#EXTINF: -1, [TR] SALON 5 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8780.ts
-#EXTINF: -1, [TR] SALON 6 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8781.ts
-#EXTINF: -1, [TR] SALON 7 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8782.ts
-#EXTINF: -1, [TR] SALON 8 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8783.ts
-#EXTINF: -1, [TR] SALON 9 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8784.ts
-#EXTINF: -1, [TR] SALON 10 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8785.ts
-#EXTINF: -1, [TR] SALON 11 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8786.ts
-#EXTINF: -1, [TR] SALON 12 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8787.ts
-#EXTINF: -1, [TR] SALON 13 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8788.ts
-#EXTINF: -1, [TR] SALON 14 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8789.ts
-#EXTINF: -1, [TR] SALON 15 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8790.ts
-#EXTINF: -1, [TR] SALON 16 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8791.ts
-#EXTINF: -1, [TR] SALON 17 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8792.ts
-#EXTINF: -1, [TR] SALON 18 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8793.ts
-#EXTINF: -1, [TR] SALON 19 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8794.ts
-#EXTINF: -1, [TR] SALON 20 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8795.ts
-#EXTINF: -1, [TR] SALON 1 3D
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8797.ts
-#EXTINF: -1, [TR] SALON 2 3D
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8798.ts
-#EXTINF: -1, [TR] SALON 3 3D
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8799.ts
-#EXTINF: -1, [TR] SINEMA TV HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2204.ts
-#EXTINF: -1, [TR] SINEMA TV 2 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/186.ts
-#EXTINF: -1, [TR] SİNEMA TV AILE HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2352.ts
-#EXTINF: -1, [TR] SINEMA TV 1001 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2491.ts
-#EXTINF: -1, [TR] SİNEMA TV AKSIYON HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/240.ts
-#EXTINF: -1, [TR] DIZISMART PREMIUM HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5287.ts
-#EXTINF: -1, [TR] MOVIESMART ACTION HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2526.ts
-#EXTINF: -1, [TR] MOVIESMART PLATIN HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2647.ts
-#EXTINF: -1, [TR] MOVIESMART PLATIN 2 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/1850.ts
-#EXTINF: -1, [TR] MOVIESMART PREMIUM 2 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/209.ts
-#EXTINF: -1, [TR] MOVIESMART PREMIUM HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/233.ts
-#EXTINF: -1, [TR] MOVIESMART CLASSIC HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/7799.ts
-#EXTINF: -1, [TR] MOVIESMART AİLESİ HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/7800.ts
-#EXTINF: -1, [TR] MOVIESMART FEST HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/7801.ts
-#EXTINF: -1, [TR] SiNETiVi HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/234.ts
-#EXTINF: -1, [TR] SiNETiVi 2 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/182.ts
-#EXTINF: -1, [TR] SiNETiVi KARNAVAL HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/241.ts
-#EXTINF: -1, [TR] SiNETiVi KARNAVAL 2 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/238.ts
-#EXTINF: -1, [TR] SINETIVI ADRENALIN HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/3022.ts
-#EXTINF: -1, [TR] SINETIVI ADRENALIN 2 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/3424.ts
-#EXTINF: -1, [TR] SiNEMAX TÜRK HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/3027.ts
-#EXTINF: -1, [TR] SiNEMAX FEAR HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2749.ts
-#EXTINF: -1, [TR] SiNEMAX FAMiLY HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/3026.ts
-#EXTINF: -1, [TR] SiNEMAX COMEDY HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/3028.ts
-#EXTINF: -1, [TR] SINEMAX NOSTALGIA HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2482.ts
-#EXTINF: -1, [TR] DIGIMAX 1 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2206.ts
-#EXTINF: -1, [TR] DIGIMAX 2 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2202.ts
-#EXTINF: -1, [TR] CINESTAR VIZYON 1
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/189.ts
-#EXTINF: -1, [TR] CINESTAR VIZYON 2
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2205.ts
-#EXTINF: -1, [TR] CINE STAR TURK HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/226.ts
-#EXTINF: -1, [TR] CINESTAR YESILCAM HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/276.ts
-#EXTINF: -1, [TR] FILMBOX AILE HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2646.ts
-#EXTINF: -1, [TR] FILMBOX ADRENALIN HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2498.ts
-#EXTINF: -1, [TR] FILMBOX AKSIYON HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2479.ts
-#EXTINF: -1, [TR] FILMBOX ANIMASYON HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2203.ts
-#EXTINF: -1, [TR] FILMBOX BILIMKURGU HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/6983.ts
-#EXTINF: -1, [TR] FILMBOX DRAMA HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2752.ts
-#EXTINF: -1, [TR] FILMBOX FANTASTIK HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/6982.ts
-#EXTINF: -1, [TR] FILMBOX HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/144.ts
-#EXTINF: -1, [TR] FILMBOX TÜRK HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5297.ts
-#EXTINF: -1, [TR] FILMBOX KOMEDI HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/6981.ts
-#EXTINF: -1, [TR] FILMBOX KORKU HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/6980.ts
-#EXTINF: -1, [TR] FILMBOX PREMIER HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/6979.ts
-#EXTINF: -1, [TR] FILMBOX SINEVIZYON HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/6978.ts
-#EXTINF: -1, [TR] FILMBOX SINEVIZYON INFO HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/6977.ts
-#EXTINF: -1, [TR] FILMBOX YESILCAM HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/6976.ts
-#EXTINF: -1, [TR] KEMAL SUNAL TV
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/6975.ts
-#EXTINF: -1, [TR] SİNEMA TV PLATİNYUM HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/6973.ts
-#EXTINF: -1, [TR] TURKMAX HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/6972.ts
-#EXTINF: -1, [TR] MAGIC BOX 1 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/227.ts
-#EXTINF: -1, [TR] MAGIC BOX 2 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/224.ts
-#EXTINF: -1, [TR] MAGIC BOX 3 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/235.ts
-#EXTINF: -1, [TR] MAGIC BOX 4 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/225.ts
-#EXTINF: -1, [TR] MAGIC BOX 5 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/184.ts
-#EXTINF: -1, [TR] MAGIC COMEDY HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2342.ts
-#EXTINF: -1, [TR] MAGICBOX WESTERN HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/145.ts
-#EXTINF: -1, [TR] MAGICBOX KORKU HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2866.ts
-#EXTINF: -1, [TR] MAGICBOX ANIMASYON HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2382.ts
-#EXTINF: -1, [TR] MAGICBOX YESILCAM HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2861.ts
-#EXTINF: -1, [TR] MAGICBOX DIZI HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2859.ts
-#EXTINF: -1, [TR] MOVIEMAX TURK HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/6974.ts
-#EXTINF: -1, [TR] DIZI TV HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/168.ts
-#EXTINF: -1, [TR] FX HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2387.ts
-#EXTINF: -1, [TR] FOX LIFE HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2388.ts
-#EXTINF: -1, [TR] FOX CRIME HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2386.ts
-#EXTINF: -1, [TR] BEIN GURME HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/207.ts
-#EXTINF: -1, [TR] BEIN IZ HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/1848.ts
-#EXTINF: -1, [TR] NAT COOGRAFİK HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/245.ts
-#EXTINF: -1, [TR] NAT GEO WILD HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/246.ts
-#EXTINF: -1, [TR] NAT GEO PEOPLE HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/247.ts
-#EXTINF: -1, [TR] BBC YERİ HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/222.ts
-#EXTINF: -1, [TR] TARİHÇE HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/250.ts
-#EXTINF: -1, [TR] DISCOVERY CHANEL HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/248.ts
-#EXTINF: -1, [TR] DISCOVERY SHOWCASE HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8768.ts
-#EXTINF: -1, [TR] DISCOVERY SHOWCASE FHD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2349.ts
-#EXTINF: -1, [TR] DISCOVERY SCIENCE HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/249.ts
-#EXTINF: -1, [TR] DISCOVERY IDX HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/7802.ts
-#EXTINF: -1, [TR] IDX HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/244.ts
-#EXTINF: -1, [TR] DTX HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/278.ts
-#EXTINF: -1, [TR] VIASAT DOURE HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8767.ts
-#EXTINF: -1, [TR] HAYVAN PLANETİ HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/274.ts
-#EXTINF: -1, [TR] MOVIEBOX TV ANIMASYON HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2750.ts
-#EXTINF: -1, [TR] DOCUBOX HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/239.ts
-#EXTINF: -1, [TR] TRT BELGESEL
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/152.ts
-#EXTINF: -1, [TR] AILE TV
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5486.ts
-#EXTINF: -1, [TR] DISNEY KANAL
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5472.ts
-#EXTINF: -1, [TR] DREAM TV HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5471.ts
-#EXTINF: -1, [TR] DURU TV
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5485.ts
-#EXTINF: -1, [TR] ER TV
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5484.ts
-#EXTINF: -1, [TR] EURO D
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5483.ts
-#EXTINF: -1, [TR] KANAL 3
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5482.ts
-#EXTINF: -1, [TR] KANAL 41
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5481.ts
-#EXTINF: -1, [TR] KANAL 7 AVRUPA
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5480.ts
-#EXTINF: -1, [TR] KANAL AVRUPA
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5479.ts
-#EXTINF: -1, [TR] KANAL S
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5478.ts
-#EXTINF: -1, [TR] YAŞAM KANALI KANAL
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5477.ts
-#EXTINF: -1, [TR] ONE BEST
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5476.ts
-#EXTINF: -1, [TR] PLANET MUTFAK
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5475.ts
-#EXTINF: -1, [TR] TV 24
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5474.ts
-#EXTINF: -1, [TR] VİZYONTURK TV
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5473.ts
-#EXTINF: -1, [TR] YABAN TV
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2379.ts
-#EXTINF: -1, [TR] REHBER TV
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2376.ts
-#EXTINF: -1, [TR] A9 TV
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/4963.ts
-#EXTINF: -1, [TR] ÇAY TV
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/4951.ts
-#EXTINF: -1, [TR] KON TV
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2383.ts
-#EXTINF: -1, [TR] KANAL A HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2358.ts
-#EXTINF: -1, [TR] UCANKUS TV
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2366.ts
-#EXTINF: -1, [TR] BENGU TÜRK
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/210.ts
-#EXTINF: -1, [TR] SEMERKAND HD [L]
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2347.ts
-#EXTINF: -1, [TR] LALEGUL TV
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2372.ts
-#EXTINF: -1, [TR] MEDINE TV
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2338.ts
-#EXTINF: -1, [TR] TRT DIYANET
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8766.ts
-#EXTINF: -1, [TR] MELTEM TV
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2356.ts
-#EXTINF: -1, [TR] AKILLI TV
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2369.ts
-#EXTINF: -1, [TR] HILAL TV
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2365.ts
-#EXTINF: -1, [TR] DOST TV
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/4950.ts
-#EXTINF: -1, [TR] MESAJ TV
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/4949.ts
-#EXTINF: -1, [TR] NTV HD [Y]
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/197.ts
-#EXTINF: -1, [TR] NTV HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/198.ts
-#EXTINF: -1, [TR] AHABER HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/199.ts
-#EXTINF: -1, [TR] HABER HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/200.ts
-#EXTINF: -1, [TR] CNN TURK HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/203.ts
-#EXTINF: -1, [TR] CNN TÜRK HD [Y]
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2339.ts
-#EXTINF: -1, [TR] HABER TÜRK HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/201.ts
-#EXTINF: -1, [TR] TRT HABER HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/147.ts
-#EXTINF: -1, [TR] HABER TÜRK FHD [Y]
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2350.ts
-#EXTINF: -1, [TR] TGRT HABER
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2335.ts
-#EXTINF: -1, [TR] TGRT AVRUPA
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5025.ts
-#EXTINF: -1, [TR] TGRT BELGESEL HD [L]
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5024.ts
-#EXTINF: -1, [TR] TVNET HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2337.ts
-#EXTINF: -1, [TR] ULKE TV HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/206.ts
-#EXTINF: -1, [TR] BLOOMBERGHT HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/214.ts
-#EXTINF: -1, [TR] AKiT TV
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2374.ts
-#EXTINF: -1, [TR] KANAL 24
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/208.ts
-#EXTINF: -1, [TR] HALK TV
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2371.ts
-#EXTINF: -1, [TR] ULUSAL TV
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/194.ts
-#EXTINF: -1, [TR] NICKELODEON HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/273.ts
-#EXTINF: -1, [TR] NICK JR
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/268.ts
-#EXTINF: -1, [TR] MINIKA GO
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/270.ts
-#EXTINF: -1, [TR] MINIKA COCUK
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/271.ts
-#EXTINF: -1, [TR] PLANET COCUK
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2499.ts
-#EXTINF: -1, [TR] TRT COCUK HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2329.ts
-#EXTINF: -1, [TR] DISNEY JUNIOR HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2500.ts
-#EXTINF: -1, [TR] DISNEY KANAL HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/272.ts
-#EXTINF: -1, [TR] KIDZ / ANIMEZ
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5304.ts
-#EXTINF: -1, [TR] KAPAK TV
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2375.ts
-#EXTINF: -1, [TR] BABY TV HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/149.ts
-#EXTINF: -1, [TR] BABY FIRST HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2377.ts
-#EXTINF: -1, [TR] KARTUŞ AĞI
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2363.ts
-#EXTINF: -1, [TR] TV 4
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2370.ts
-#EXTINF: -1, [TR] TRT MUZIK
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/148.ts
-#EXTINF: -1, [TR] KRAL TV HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/191.ts
-#EXTINF: -1, [TR] KRAL POP TV
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/196.ts
-#EXTINF: -1, [TR] DREAM TÜRK
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2490.ts
-#EXTINF: -1, [TR] POWER TV HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2345.ts
-#EXTINF: -1, [TR] GÜÇ TÜRKÜ HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2344.ts
-#EXTINF: -1, [TR] Number1 TV HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2353.ts
-#EXTINF: -1, [TR] Number1 TURK HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2354.ts
-#EXTINF: -1, [TR] BEIN SPORTS HD 1 TAM HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/6428.ts
-#EXTINF: -1, [TR] BEIN SPORTS HD 2 TAM HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/6427.ts
-#EXTINF: -1, [TR] BEIN SPORTS HD 3 TAM HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/6426.ts
-#EXTINF: -1, [TR] BEIN SPORTS HD 4 TAM HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/6425.ts
-#EXTINF: -1, [TR] BEIN SPORTS HD 1 [OZEL]
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/6424.ts
-#EXTINF: -1, [TR] BEIN SPORTS HD 2 [OZEL]
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/6423.ts
-#EXTINF: -1, [TR] BEIN SPORTS HD 3 [OZEL]
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/6422.ts
-#EXTINF: -1, [TR] BEIN SPORTS HD 4 [OZEL]
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/6421.ts
-#EXTINF: -1, [TR] BEIN SPORTS HD 1 [VIP]
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/1133.ts
-#EXTINF: -1, [TR] BEIN SPORTS HD 2 [VIP]
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/1134.ts
-#EXTINF: -1, [TR] BEIN SPORTS HD 3 [VIP]
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/1135.ts
-#EXTINF: -1, [TR] BEIN SPORTS 1 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/251.ts
-#EXTINF: -1, [TR] BEIN SPORT 3 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/255.ts
-#EXTINF: -1, [TR] BEIN SPORT 1 HD [Y]
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/252.ts
-#EXTINF: -1, [TR] BEIN SPORT 2 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/253.ts
-#EXTINF: -1, [TR] BEIN SPORT 2 HD [Y]
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/254.ts
-#EXTINF: -1, [TR] BEIN SPORT 3 HD [Y]
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/256.ts
-#EXTINF: -1, [TR] TIVIBU SPOR 1 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/258.ts
-#EXTINF: -1, [TR] TIVIBU SPOR 2 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2200.ts
-#EXTINF: -1, [TR] TIVIBU SPOR 3 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/737.ts
-#EXTINF: -1, [TR] TIVIBU SPOR 4 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/736.ts
-#EXTINF: -1, [TR] TIVIBU SPOR 1 SD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8758.ts
-#EXTINF: -1, [TR] TIVIBU SPOR 2 SD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2199.ts
-#EXTINF: -1, [TR] TIVIBU SPOR 3 SD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8757.ts
-#EXTINF: -1, [TR] TIVIBU SPOR 4 SD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/8756.ts
-#EXTINF: -1, [TR] TIVIBU SPORT 2 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/259.ts
-#EXTINF: -1, [TR] BEIN SPORT 4 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5302.ts
-#EXTINF: -1, [TR] BEIN SPORT MAX HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5301.ts
-#EXTINF: -1, [TR] LOCA 1 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5414.ts
-#EXTINF: -1, [TR] LOCA 2 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5413.ts
-#EXTINF: -1, [TR] LOCA 3 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5412.ts
-#EXTINF: -1, [TR] YESILCAM TV
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5282.ts
-#EXTINF: -1, [TR] S SPORT HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/1992.ts
-#EXTINF: -1, [TR] SMART SPOR HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/1991.ts
-#EXTINF: -1, [TR] NBA TV HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2201.ts
-#EXTINF: -1, [TR] TRT SPOR HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/264.ts
-#EXTINF: -1, [TR] TRTSPOR HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/265.ts
-#EXTINF: -1, [TR] NTVSPOR HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/262.ts
-#EXTINF: -1, [TR] NTV SPOR HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/1995.ts
-#EXTINF: -1, [TR] ASPOR HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/260.ts
-#EXTINF: -1, [TR] A SPOR HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/261.ts
-#EXTINF: -1, [TR] EUROSPORT 1 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/263.ts
-#EXTINF: -1, [TR] EUROSPORT 2 HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/266.ts
-#EXTINF: -1, [TR] MÜCADELE KUTUSU HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2477.ts
-#EXTINF: -1, [TR] IDMAN TV (AZ)
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/236.ts
-#EXTINF: -1, [TR] FANATIK TV
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2367.ts
-#EXTINF: -1, [TR] SPOR TV
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2368.ts
-#EXTINF: -1, [TR] FB TV HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/1994.ts
-#EXTINF: -1, [TR] BJK TV HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/1993.ts
-#EXTINF: -1, [TR] GS TV HD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2346.ts
-#EXTINF: -1, [TR] BURSA SPOR
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/2501.ts
-#EXTINF: -1, [TR] TJK TV
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/4953.ts
-#EXTINF: -1, ********** TÜRKİYE FullHD 1080p ***********
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5467.ts
-#EXTINF: -1, [TR] SHOW TV FHD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5458.ts
-#EXTINF: -1, [TR] ATV FHD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5456.ts
-#EXTINF: -1, [TR] STAR TV FHD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5455.ts
-#EXTINF: -1, [TR] FOX TV FHD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5459.ts
-#EXTINF: -1, [TR] KANAL 7 FHD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5466.ts
-#EXTINF: -1, [TR] KANAL D FHD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5457.ts
-#EXTINF: -1, [TR] NTV FHD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5461.ts
-#EXTINF: -1, [TR] NTV SPOR FHD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5462.ts
-#EXTINF: -1, [TR] TEVE 2 FHD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5465.ts
-#EXTINF: -1, [TR] TV8 HD FHD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5463.ts
-#EXTINF: -1, [TR] TV8.5 FHD
-http://portal.iptvkeyfi.net:8000/live/oscar1/oscar1/5464.ts
-#EXTINF: -1, [TR] ULKE TV FHD
-http://portal.iptvkeyfi.net:8000/live/
+#EXTM3U
+#EXTINF:-1,beIN Sports 1 Hd
+http://force102.com:8080/baki12/baki12/2
+#EXTINF:-1,BeIN Sports 1 Hd 265.hevc
+http://force102.com:8080/baki12/baki12/7100
+#EXTINF:-1,BeIN Sports 1 Hd ( ttnet )
+http://force102.com:8080/baki12/baki12/31753
+#EXTINF:-1,bein sports 1 hd ( turknet )
+http://force102.com:8080/baki12/baki12/31754
+#EXTINF:-1,bein sports 1 hd ( super online )
+http://force102.com:8080/baki12/baki12/31755
+#EXTINF:-1,bein sports 1 hd ( vodafone )
+http://force102.com:8080/baki12/baki12/31756
+#EXTINF:-1,BeIN Sports 1 Hd 1080i
+http://force102.com:8080/baki12/baki12/7102
+#EXTINF:-1,BeIN Sports 1 Sd
+http://force102.com:8080/baki12/baki12/130
+#EXTINF:-1,BeIN Sports 1 Sd Mobile
+http://force102.com:8080/baki12/baki12/7042
+#EXTINF:-1,BeIN Sports 1 Hd 1080i 265.hevc
+http://force102.com:8080/baki12/baki12/7101
+#EXTINF:-1,BeIN Sports 1 4k & Bein iz
+http://force102.com:8080/baki12/baki12/7605
+#EXTINF:-1,Bein Sports 1 4k & Bein Iz 1080 Hevc265
+http://force102.com:8080/baki12/baki12/30558
+#EXTINF:-1,BeIN Sports Sd 2
+http://force102.com:8080/baki12/baki12/8302
+#EXTINF:-1,BeIN Sports Hd 2
+http://force102.com:8080/baki12/baki12/3
+#EXTINF:-1,BeIN Sports 2 Mobile
+http://force102.com:8080/baki12/baki12/29359
+#EXTINF:-1,Bein Sports Sd 3
+http://force102.com:8080/baki12/baki12/8301
+#EXTINF:-1,BeIN Sports Hd 3
+http://force102.com:8080/baki12/baki12/4
+#EXTINF:-1,BeIN Sports Hd 4
+http://force102.com:8080/baki12/baki12/1492
+#EXTINF:-1,Bein Sports Sd 4
+http://force102.com:8080/baki12/baki12/19629
+#EXTINF:-1,Bein Sports 4 Mobile
+http://force102.com:8080/baki12/baki12/29360
+#EXTINF:-1,Bein Sports Max 1 Hd
+http://force102.com:8080/baki12/baki12/6977
+#EXTINF:-1,Bein Sports Max 1 Sd
+http://force102.com:8080/baki12/baki12/19630
+#EXTINF:-1,Bein Sports Max 2 Hd
+http://force102.com:8080/baki12/baki12/6978
+#EXTINF:-1,Bein Sports Max 2 Sd
+http://force102.com:8080/baki12/baki12/19631
+#EXTINF:-1,Bein Sports Haber HD
+http://force102.com:8080/baki12/baki12/19633
+#EXTINF:-1,Bein Sports Haber SD
+http://force102.com:8080/baki12/baki12/7105
+#EXTINF:-1,Tivibu Spor 1 Hd
+http://force102.com:8080/baki12/baki12/179
+#EXTINF:-1,Tivibu Spor 2 Hd
+http://force102.com:8080/baki12/baki12/180
+#EXTINF:-1,Tivibu Spor 3 Hd
+http://force102.com:8080/baki12/baki12/181
+#EXTINF:-1,D-smart Spor Hd
+http://force102.com:8080/baki12/baki12/10
+#EXTINF:-1,D-smart Nba Tv Hd
+http://force102.com:8080/baki12/baki12/12
+#EXTINF:-1,Eurosport 1 Hd.
+http://force102.com:8080/baki12/baki12/67
+#EXTINF:-1,Eurosport 2 Hd.
+http://force102.com:8080/baki12/baki12/29
+#EXTINF:-1,S Sport Hd
+http://force102.com:8080/baki12/baki12/11
+#EXTINF:-1,S Sport HD.
+http://force102.com:8080/baki12/baki12/32765
+#EXTINF:-1,S Sport 2 HD
+http://force102.com:8080/baki12/baki12/28867
+#EXTINF:-1,Sports Tv
+http://force102.com:8080/baki12/baki12/86
+#EXTINF:-1,Trt Spor Hd
+http://force102.com:8080/baki12/baki12/58
+#EXTINF:-1,Trt 3 - Trt Spor
+http://force102.com:8080/baki12/baki12/1353
+#EXTINF:-1,A Spor Hd
+http://force102.com:8080/baki12/baki12/75
+#EXTINF:-1,Bjk Tv
+http://force102.com:8080/baki12/baki12/158
+#EXTINF:-1,Tay Tv
+http://force102.com:8080/baki12/baki12/208
+#EXTINF:-1,Tjk
+http://force102.com:8080/baki12/baki12/17210
+#EXTINF:-1,Gs Tv
+http://force102.com:8080/baki12/baki12/117
+#EXTINF:-1,Fb Tv Hd
+http://force102.com:8080/baki12/baki12/1709
+#EXTINF:-1,Bursaspor Tv
+http://force102.com:8080/baki12/baki12/8551
+#EXTINF:-1,-------------- | SINEMA | --------------
+http://force102.com:8080/baki12/baki12/6510
+#EXTINF:-1,Force Film Odasi'nda Neler var?
+http://force102.com:8080/baki12/baki12/26660
+#EXTINF:-1,Force Film Odasi HD 1
+http://force102.com:8080/baki12/baki12/26661
+#EXTINF:-1,Force Film Odasi HD 2
+http://force102.com:8080/baki12/baki12/26662
+#EXTINF:-1,Force Film Odasi HD 3
+http://force102.com:8080/baki12/baki12/26663
+#EXTINF:-1,Force Film Odasi HD 4
+http://force102.com:8080/baki12/baki12/26664
+#EXTINF:-1,Force Film Odasi HD 5
+http://force102.com:8080/baki12/baki12/26665
+#EXTINF:-1,Force Film Odasi HD 6
+http://force102.com:8080/baki12/baki12/26666
+#EXTINF:-1,Force Film Odasi HD 7
+http://force102.com:8080/baki12/baki12/26667
+#EXTINF:-1,Force Film Odasi HD 8
+http://force102.com:8080/baki12/baki12/26668
+#EXTINF:-1,Force Film Odasi HD 9
+http://force102.com:8080/baki12/baki12/26669
+#EXTINF:-1,Force Film Odasi HD 10
+http://force102.com:8080/baki12/baki12/26670
+#EXTINF:-1,Vip Channel HD
+http://force102.com:8080/baki12/baki12/5
+#EXTINF:-1,Vip Channel HD 2
+http://force102.com:8080/baki12/baki12/19
+#EXTINF:-1,Bein Movies Premiere Hd
+http://force102.com:8080/baki12/baki12/2058
+#EXTINF:-1,Bein Movies Premiere 2 Hd
+http://force102.com:8080/baki12/baki12/2057
+#EXTINF:-1,Bein Movies Action Hd
+http://force102.com:8080/baki12/baki12/2056
+#EXTINF:-1,Bein Movies Action 2 Hd
+http://force102.com:8080/baki12/baki12/6089
+#EXTINF:-1,Bein Movies Stars Hd
+http://force102.com:8080/baki12/baki12/6093
+#EXTINF:-1,Bein Movies Family Hd
+http://force102.com:8080/baki12/baki12/6090
+#EXTINF:-1,Bein Movies Turk Hd
+http://force102.com:8080/baki12/baki12/6094
+#EXTINF:-1,Bein Series Sci-fi Hd
+http://force102.com:8080/baki12/baki12/39
+#EXTINF:-1,Bein Series Comedy Hd
+http://force102.com:8080/baki12/baki12/2071
+#EXTINF:-1,Bein Series Drama Hd
+http://force102.com:8080/baki12/baki12/7556
+#EXTINF:-1,Bein Series Vice Hd
+http://force102.com:8080/baki12/baki12/7557
+#EXTINF:-1,beIN Gurme HD
+http://force102.com:8080/baki12/baki12/20129
+#EXTINF:-1,beIN H&E HD
+http://force102.com:8080/baki12/baki12/20130
+#EXTINF:-1,D-smart Moviesmart Classic
+http://force102.com:8080/baki12/baki12/63
+#EXTINF:-1,D-smart Dizi Premium Hd
+http://force102.com:8080/baki12/baki12/73
+#EXTINF:-1,D-smart Moviesmart Hd Action
+http://force102.com:8080/baki12/baki12/2395
+#EXTINF:-1,D-smart Moviesmart Turk Hd
+http://force102.com:8080/baki12/baki12/72
+#EXTINF:-1,D-smart Moviesmart Premium 2 Hd
+http://force102.com:8080/baki12/baki12/68
+#EXTINF:-1,D-smart Moviesmart Premium Hd
+http://force102.com:8080/baki12/baki12/1288
+#EXTINF:-1,D-smart Moviesmart Gold
+http://force102.com:8080/baki12/baki12/1706
+#EXTINF:-1,D-smart Moviesmart Family Hd
+http://force102.com:8080/baki12/baki12/1705
+#EXTINF:-1,D-smart Moviesmart Platin 2 Hd
+http://force102.com:8080/baki12/baki12/157
+#EXTINF:-1,D-smart Moviesmart Gold
+http://force102.com:8080/baki12/baki12/65
+#EXTINF:-1,D-smart Moviesmart Fest
+http://force102.com:8080/baki12/baki12/2399
+#EXTINF:-1,D-Smart FX
+http://force102.com:8080/baki12/baki12/2075
+#EXTINF:-1,D-smart Dizi Smart Max Hd
+http://force102.com:8080/baki12/baki12/1707
+#EXTINF:-1,Sinema HD
+http://force102.com:8080/baki12/baki12/8580
+#EXTINF:-1,Sinema 2 HD
+http://force102.com:8080/baki12/baki12/28868
+#EXTINF:-1,Sinema Aksiyon HD
+http://force102.com:8080/baki12/baki12/2398
+#EXTINF:-1,Sinema Aile HD
+http://force102.com:8080/baki12/baki12/1708
+#EXTINF:-1,Sinema Aile 2 HD
+http://force102.com:8080/baki12/baki12/29312
+#EXTINF:-1,Sinema Yerli HD
+http://force102.com:8080/baki12/baki12/19113
+#EXTINF:-1,Sinema Yerli 2 HD
+http://force102.com:8080/baki12/baki12/29313
+#EXTINF:-1,Sinema 1001 HD
+http://force102.com:8080/baki12/baki12/28859
+#EXTINF:-1,Sinema 1002 HD
+http://force102.com:8080/baki12/baki12/28860
+#EXTINF:-1,Sinema Komedi 1 HD
+http://force102.com:8080/baki12/baki12/28858
+#EXTINF:-1,Moviemax Premier Hd
+http://force102.com:8080/baki12/baki12/6
+#EXTINF:-1,Moviemax Premier 2 HD
+http://force102.com:8080/baki12/baki12/19111
+#EXTINF:-1,Moviemax Turk Hd
+http://force102.com:8080/baki12/baki12/17569
+#EXTINF:-1,Bein Box Office 1 Hd
+http://force102.com:8080/baki12/baki12/7
+#EXTINF:-1,Bein Box Office 2 Hd
+http://force102.com:8080/baki12/baki12/8
+#EXTINF:-1,Bein Box Office 3 Hd
+http://force102.com:8080/baki12/baki12/9
+#EXTINF:-1,Cine + HD 1
+http://force102.com:8080/baki12/baki12/8131
+#EXTINF:-1,Cine + HD 2
+http://force102.com:8080/baki12/baki12/8132
+#EXTINF:-1,Cine + HD 3
+http://force102.com:8080/baki12/baki12/8133
+#EXTINF:-1,Cine + HD 4
+http://force102.com:8080/baki12/baki12/8134
+#EXTINF:-1,Cine + HD 5
+http://force102.com:8080/baki12/baki12/8135
+#EXTINF:-1,Cine + HD 6
+http://force102.com:8080/baki12/baki12/8136
+#EXTINF:-1,Cine + HD 7
+http://force102.com:8080/baki12/baki12/8137
+#EXTINF:-1,Cine + HD 8
+http://force102.com:8080/baki12/baki12/8138
+#EXTINF:-1,Cine + HD 9
+http://force102.com:8080/baki12/baki12/8139
+#EXTINF:-1,Cine + HD 10
+http://force102.com:8080/baki12/baki12/8140
+#EXTINF:-1,Loca 1 Hd
+http://force102.com:8080/baki12/baki12/16
+#EXTINF:-1,Loca 2 Hd
+http://force102.com:8080/baki12/baki12/148
+#EXTINF:-1,Loca 3 Hd
+http://force102.com:8080/baki12/baki12/218
+#EXTINF:-1,Cine + HD Turk 1
+http://force102.com:8080/baki12/baki12/8177
+#EXTINF:-1,Cine + HD Turk 2
+http://force102.com:8080/baki12/baki12/8176
+#EXTINF:-1,Cine + HD Turk 3
+http://force102.com:8080/baki12/baki12/8175
+#EXTINF:-1,Yesilcam 1 Hd
+http://force102.com:8080/baki12/baki12/14
+#EXTINF:-1,Yesilcam 2 Hd
+http://force102.com:8080/baki12/baki12/15
+#EXTINF:-1,Kovboy Tv
+http://force102.com:8080/baki12/baki12/34178
+#EXTINF:-1,Kemal Sunal Tv
+http://force102.com:8080/baki12/baki12/8203
+#EXTINF:-1,Kadir Inanir Tv
+http://force102.com:8080/baki12/baki12/8204
+#EXTINF:-1,Münir Özkul Tv
+http://force102.com:8080/baki12/baki12/23985
+#EXTINF:-1,Tarik Akan Tv
+http://force102.com:8080/baki12/baki12/23983
+#EXTINF:-1,Fox Crime HD
+http://force102.com:8080/baki12/baki12/10107
+#EXTINF:-1,Fox Life HD
+http://force102.com:8080/baki12/baki12/10108
+#EXTINF:-1,Film Tv Hd
+http://force102.com:8080/baki12/baki12/17
+#EXTINF:-1,-------------- | ULUSAL | --------------
+http://force102.com:8080/baki12/baki12/6509
+#EXTINF:-1,Trt1 Hd
+http://force102.com:8080/baki12/baki12/82
+#EXTINF:-1,Trt1 Sd
+http://force102.com:8080/baki12/baki12/31
+#EXTINF:-1,Trt 4k Tv
+http://force102.com:8080/baki12/baki12/7548
+#EXTINF:-1,Trt 2 Sd
+http://force102.com:8080/baki12/baki12/2414
+#EXTINF:-1,Trt Kurdi
+http://force102.com:8080/baki12/baki12/2046
+#EXTINF:-1,Trt Avaz
+http://force102.com:8080/baki12/baki12/17211
+#EXTINF:-1,Trt Diyanet
+http://force102.com:8080/baki12/baki12/17212
+#EXTINF:-1,Trt Al Arabia
+http://force102.com:8080/baki12/baki12/17213
+#EXTINF:-1,Trt Turk
+http://force102.com:8080/baki12/baki12/17214
+#EXTINF:-1,Trt World
+http://force102.com:8080/baki12/baki12/17215
+#EXTINF:-1,Show Tv Hd
+http://force102.com:8080/baki12/baki12/25
+#EXTINF:-1,Show Tv
+http://force102.com:8080/baki12/baki12/97
+#EXTINF:-1,Show Tv Euro
+http://force102.com:8080/baki12/baki12/7564
+#EXTINF:-1,Star Tv Hd
+http://force102.com:8080/baki12/baki12/28
+#EXTINF:-1,Star Tv
+http://force102.com:8080/baki12/baki12/98
+#EXTINF:-1,Star Tv Euro
+http://force102.com:8080/baki12/baki12/7563
+#EXTINF:-1,Kanal D Hd
+http://force102.com:8080/baki12/baki12/26
+#EXTINF:-1,Kanal D
+http://force102.com:8080/baki12/baki12/96
+#EXTINF:-1,Kanal D Euro
+http://force102.com:8080/baki12/baki12/7565
+#EXTINF:-1,Tv8 Hd
+http://force102.com:8080/baki12/baki12/57
+#EXTINF:-1,Tv8
+http://force102.com:8080/baki12/baki12/93
+#EXTINF:-1,TV8.5
+http://force102.com:8080/baki12/baki12/2068
+#EXTINF:-1,Atv Hd
+http://force102.com:8080/baki12/baki12/1
+#EXTINF:-1,atv
+http://force102.com:8080/baki12/baki12/95
+#EXTINF:-1,Atv Euro
+http://force102.com:8080/baki12/baki12/7566
+#EXTINF:-1,Fox Tv
+http://force102.com:8080/baki12/baki12/200
+#EXTINF:-1,Fox Hd
+http://force102.com:8080/baki12/baki12/27
+#EXTINF:-1,Beyaz Tv Hd
+http://force102.com:8080/baki12/baki12/35
+#EXTINF:-1,Kanal 7
+http://force102.com:8080/baki12/baki12/2357
+#EXTINF:-1,Kanal 7 Euro
+http://force102.com:8080/baki12/baki12/30478
+#EXTINF:-1,A2
+http://force102.com:8080/baki12/baki12/2070
+#EXTINF:-1,Tlc Tv
+http://force102.com:8080/baki12/baki12/87
+#EXTINF:-1,Teve2
+http://force102.com:8080/baki12/baki12/83
+#EXTINF:-1,Ekoturk Tv
+http://force102.com:8080/baki12/baki12/52
+#EXTINF:-1,Lifeplus
+http://force102.com:8080/baki12/baki12/17202
+#EXTINF:-1,Women Tv
+http://force102.com:8080/baki12/baki12/17203
+#EXTINF:-1,Nr1 Ask
+http://force102.com:8080/baki12/baki12/17205
+#EXTINF:-1,Tv5 monde
+http://force102.com:8080/baki12/baki12/17216
+#EXTINF:-1,Tvt
+http://force102.com:8080/baki12/baki12/17218
+#EXTINF:-1,Fashionbox
+http://force102.com:8080/baki12/baki12/17196
+#EXTINF:-1,Cay Tv
+http://force102.com:8080/baki12/baki12/1489
+#EXTINF:-1,Cem Tv
+http://force102.com:8080/baki12/baki12/2361
+#EXTINF:-1,Tay Tv
+http://force102.com:8080/baki12/baki12/137
+#EXTINF:-1,As Tv
+http://force102.com:8080/baki12/baki12/7090
+#EXTINF:-1,Bursa Tv
+http://force102.com:8080/baki12/baki12/7091
+#EXTINF:-1,Kent Tv
+http://force102.com:8080/baki12/baki12/7092
+#EXTINF:-1,Mercan Tv
+http://force102.com:8080/baki12/baki12/7087
+#EXTINF:-1,Ordu Altas Tv
+http://force102.com:8080/baki12/baki12/7086
+#EXTINF:-1,Tv A
+http://force102.com:8080/baki12/baki12/7097
+#EXTINF:-1,Kon Tv
+http://force102.com:8080/baki12/baki12/7562
+#EXTINF:-1,Rt Arabic
+http://force102.com:8080/baki12/baki12/17207
+#EXTINF:-1,Rt Espanol
+http://force102.com:8080/baki12/baki12/17208
+#EXTINF:-1,Sky News Arabia
+http://force102.com:8080/baki12/baki12/17209
+#EXTINF:-1,Haber 61 TV
+http://force102.com:8080/baki12/baki12/19561
+#EXTINF:-1,Egetürk Tv
+http://force102.com:8080/baki12/baki12/19638
+#EXTINF:-1,Haberaks
+http://force102.com:8080/baki12/baki12/19639
+#EXTINF:-1,Kanal 43
+http://force102.com:8080/baki12/baki12/19642
+#EXTINF:-1,Kanal 58
+http://force102.com:8080/baki12/baki12/19644
+#EXTINF:-1,Olay Tv
+http://force102.com:8080/baki12/baki12/19646
+#EXTINF:-1,Aksaray Tv
+http://force102.com:8080/baki12/baki12/29488
+#EXTINF:-1,Kanal 68 Aksaray
+http://force102.com:8080/baki12/baki12/29486
+#EXTINF:-1,Turkiyem Tv
+http://force102.com:8080/baki12/baki12/29487
+#EXTINF:-1,38 Kent Tv
+http://force102.com:8080/baki12/baki12/29489
+#EXTINF:-1,Dost Tv (dini)
+http://force102.com:8080/baki12/baki12/29491
+#EXTINF:-1,Edessa Tv (dini)
+http://force102.com:8080/baki12/baki12/29492
+#EXTINF:-1,Ege Turk Tv
+http://force102.com:8080/baki12/baki12/29493
+#EXTINF:-1,Fm Tv (dini)
+http://force102.com:8080/baki12/baki12/29494
+#EXTINF:-1,Kanal V (antalya)
+http://force102.com:8080/baki12/baki12/29496
+#EXTINF:-1,Medine Tv
+http://force102.com:8080/baki12/baki12/31231
+#EXTINF:-1,Lalegül Tv
+http://force102.com:8080/baki12/baki12/31227
+#EXTINF:-1,Mavi Karadeniz Tv
+http://force102.com:8080/baki12/baki12/31230
+#EXTINF:-1,Hilal Tv
+http://force102.com:8080/baki12/baki12/31228
+#EXTINF:-1,Kudus Tv
+http://force102.com:8080/baki12/baki12/31229
+#EXTINF:-1,Dost Tv
+http://force102.com:8080/baki12/baki12/31232
